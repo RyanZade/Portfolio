@@ -29,7 +29,7 @@ const projects = [
   {
     id: 3,
     title: "Quiz Challenge",
-    image: "./images/capture.PNG",
+    image: "./images/Scheduler.PNG",
     description: "A timed coding quiz with multiple-choice questions. The timed quiz will store top scores to gauge progress compared to others. Each incorrect answer will deduct 10 seconds off the time remaining.",
     repo: "https://github.com/RyanZade/Challenge-5",
     live: "https://ryanzade.github.io/Challenge-5/",
